@@ -1,0 +1,77 @@
+body    {
+    background-color: grey;
+    align-content:center;
+}
+
+.bg-success   {
+    width: 10%;
+}
+
+
+.row   {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.card  {
+    margin: 15%;
+}
+
+.col1-sm-3   {
+    background-color: orange;
+    margin: 3px;
+    display: table-cell;
+    flex: 1 1 0px;
+    border: 1px solid black;
+    
+}
+
+.col2-sm-3   {
+    background-color: lawngreen;
+    margin: 3px;
+    display: table-cell;
+    flex: 1 1 0px;
+    border: 1px solid black;
+    
+}
+
+.col3-sm-3   {
+    background-color: orange;
+    margin: 3px;
+    display: table-cell;
+    flex: 1 1 0px;
+    border: 1px solid black;
+}
+
+.col4-sm-3   {
+    background-color: lawngreen;
+    margin: 3px;
+    display: table-cell;
+    flex: 1 1 0px;
+    border: 1px solid black;
+}
+
+img.card-img-top   {
+    width: 130px;
+}
+
+.h1 {
+    text-align: center;
+}
+
+h2.h2 {
+    text-align: center;
+}
+
+div.card-header {
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+
+div.card-footer {
+    text-align: center;
+    background-color: lightblue;
+    color: white;
+}

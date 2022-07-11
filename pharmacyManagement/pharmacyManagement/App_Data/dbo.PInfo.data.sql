@@ -1,0 +1,3 @@
+﻿SET IDENTITY_INSERT [dbo].[PInfo] ON
+
+SET IDENTITY_INSERT [dbo].[PInfo] OFF
